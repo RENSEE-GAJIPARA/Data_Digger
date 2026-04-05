@@ -100,127 +100,7 @@ SHOW TABLES;
 
 ---
 
-## 📊 Query Outputs
 
----
-
-### 🔷 Table 1 — Customers
-
-#### ✅ Insert 5+ Sample Customers
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve All Customers
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Update a Customer's Address
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Delete a Customer by CustomerID
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Display All Customers Named 'Alice'
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-### 🔷 Table 2 — Orders
-
-#### ✅ Insert 5+ Sample Orders
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve All Orders by a Specific Customer
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Update an Order's Total Amount
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Delete an Order by OrderID
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve Orders Placed in the Last 30 Days
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Highest, Lowest & Average Order Amount
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-### 🔷 Table 3 — Products
-
-#### ✅ Insert 5+ Sample Products
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve All Products Sorted by Price (Descending)
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Update Price of a Specific Product
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Delete Out-of-Stock Products
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve Products Priced Between ₹500 and ₹2000
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Most Expensive & Cheapest Product
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-### 🔷 Table 4 — OrderDetails
-
-#### ✅ Insert 5+ Sample Records
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Retrieve All Details for a Specific Order
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Total Revenue from All Orders
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Top 3 Most Ordered Products
-<!-- INSERT SCREENSHOT HERE -->
-
----
-
-#### ✅ Count How Many Times a Product Has Been Sold
-<!-- INSERT SCREENSHOT HERE -->
-
----
 
 ## 🧠 Concepts Covered
 
@@ -242,17 +122,18 @@ SHOW TABLES;
 | `SUM()`, `COUNT()` | OrderDetails |
 | `CURDATE()`, `INTERVAL` | Orders |
 
----
 
-## 👤 Author
-
-**Name:** _(Your Name)_
-**Course:** _(Your Course / Subject Name)_
-**Institution:** _(Your College / University)_
-**Date:** April 2026
 
 ---
+## 👨‍💻 Author
 
-## 📝 License
+<div align="center">
 
-This project is submitted as part of an academic assignment. All SQL scripts are original work created for educational purposes.
+**Rensee Gajipara**
+
+[![GitHub](https://img.shields.io/badge/GitHub-RENSEE--GAJIPARA-181717?style=for-the-badge&logo=github)](https://github.com/RENSEE-GAJIPARA)
+
+</div>
+
+---
+
